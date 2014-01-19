@@ -1,0 +1,19 @@
+html, body { 
+	background:#FFF; height:100%; text-align: center; 
+	margin: 25px auto;
+	max-width: 90vh;
+	max-height: 90vh;
+	position:relative;
+	text-align:center;
+}	
+.square { width: 33vw; height: 33vw;}
+ul li { display: inline; }
+i { margin: 25px; }
+h1 { font-family: 'Nothing You Could Do', Arial, serif; font-weight: 400; color: #55198b; font-size: 4em; margin-left: 25px}
+a:link { color: #55198b; }
+a:active { color: #55198b; }
+a:hover { 
+	color: #55198b; 
+	opacity: 0.5;	
+}
+a:visited { color: #55198b; }
